@@ -1,0 +1,19 @@
+
+  div .sectioncontact-container {
+    width: 70%;
+    padding: 90px 0;
+    margin: 50px auto 250px auto;
+    display: grid;
+    grid-template-columns: 2fr 3fr;
+    align-items: center;
+  
+  }
+  
+  .contact-container h2 {
+    font-size: 4.3rem;
+    color: #ddd;
+    text-transform: uppercase;
+   line-height: 4.2rem; 
+   padding-right: 10px;
+   border-right: 3px solid #ddd;
+  }
